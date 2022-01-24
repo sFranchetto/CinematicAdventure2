@@ -1,0 +1,7 @@
+//
+PromotionController      == Discount code redirect
+showAllFaqs -> view      == FAQ does not display if no answer
+viewReviews -> view & AdminController == shows movie titles
+OrderDetail -> Index view
+OrderDetailController -> show title in checkout
+Orders/myOrders.php -> view
